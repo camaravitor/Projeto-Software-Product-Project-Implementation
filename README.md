@@ -5,7 +5,7 @@ Este projeto visa criar uma aplicação que permite a análise de ações do mer
 # 🖥️ Tecnologias Utilizadas 
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="65"> </b>  <img src="https://www.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="PySpark Logo" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png" alt="Angular Logo" width="40"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy Logo" width="65">
 
-  <b>Backend:</b> Python
+🚀 <b>Backend:</b> Python
 
 🚀 <b>PySpark:</b> Biblioteca para processamento distribuído de dados, ideal para manipulação e análise de grandes conjuntos de dados.
  
