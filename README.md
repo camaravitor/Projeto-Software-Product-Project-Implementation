@@ -1,4 +1,4 @@
-# 💰  Análise de Ações no Mercado Financeiro
+# 📈  Análise de Ações no Mercado Financeiro
 Introdução
 Este projeto visa criar uma aplicação que permite a análise de ações do mercado financeiro, utilizando Python no backend, MySQL como banco de dados e Angular no frontend. Para realizar a análise, serão utilizadas as bibliotecas PySpark para o processamento de dados e a API Alpha Vantage para obter informações atualizadas sobre as ações.
 
