@@ -14,8 +14,5 @@ Este projeto visa criar uma aplicação que permite a análise de ações do mer
 🚀 <b>Banco de Dados:</b> MySQL - 
     Banco de dados relacional para armazenar e gerenciar os dados relacionados às ações e análises.
 
-🚀 <b>Frontend:</b> Angular
-Framework JavaScript/TypeScript para construção de interfaces de usuário interativas e responsivas.
-
 🚀 <b>API de Dados:</b> Alpha Vantage
  Fornecedora de dados financeiros em tempo real. Será utilizada para obter informações sobre as ações.
