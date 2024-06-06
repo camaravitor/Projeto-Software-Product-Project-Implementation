@@ -8,5 +8,6 @@ Para realizar a análise, serão utilizadas as bibliotecas pandas, matplotlib, s
 
 🚀 <b>Backend:</b> Python, pandas, matplotlib, seaborn e numpy
 
-🚀 <b>Dados:</b> yfinance e fundamentus
- forrnecedores de dados financeiros em tempo real. Seram utilizadas para obter informações sobre as ações.
+🚀 <b>Frontend:</b> PowerBi
+
+🚀 <b>Informações:</b> yfinance e fundamentus são as bibliotecas do python que fornecem dados financeiros em tempo real. Elas serão utilizadas para obter informações sobre as ações.
